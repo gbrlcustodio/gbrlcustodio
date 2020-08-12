@@ -11,6 +11,8 @@
 [![LINKEDIN](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gbrlcustodio)
 [![TWITTER](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/gbrlcustodio)
 
+#### Bonus points
+
 - 🎓 I have a Bachelor's degree in Computer Science and MBA in Software Engineering.
 - 🔭 I’m currently working with Ruby <img src="https://emojis.slackmojis.com/emojis/images/1450319445/31/ruby.png?1450319445" width="14"/> and Elixir <img src="https://emojis.slackmojis.com/emojis/images/1486667989/1714/elixir.png?1486667989" width="18"/>.
 - 🌱 I’m currently learning Rust <img src="https://emojis.slackmojis.com/emojis/images/1494634585/2242/crustacean.png?1494634585" width="18"/>.
