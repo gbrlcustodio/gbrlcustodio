@@ -2,7 +2,7 @@
 
 ### Hey there, I'm Gabriel Custódio <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="30"/>
 
-#### I'm a Software Engineer based in <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/> Brazil, currently working at [Pipefy](https://www.pipefy.com) as a Senior Backend Engineer.
+#### I'm a Software Engineer based in <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/> Brazil, currently working at [Pipefy](https://www.pipefy.com) as a Staff Software Engineer.
 
 *Feel free to reach me on any of my social medias.*
 
