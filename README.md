@@ -1,4 +1,4 @@
-<p align="center"><img height="250px" src="https://i.stack.imgur.com/i6NG3.gif" /></p>
+<p align="center"><img height="350px" src="https://i.pinimg.com/originals/2d/79/a2/2d79a22c6a7902c41866fe4badebe98e.gif" /></p>
 
 ### Hey there, I'm Gabriel Custódio <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="30"/>
 
